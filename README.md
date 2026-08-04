@@ -5,8 +5,8 @@
 This project implements an end-to-end AWS security operations platform that combines:
 
 - Amazon Cognito authentication
-- API Gateway protection
 - AWS WAF threat detection
+- API Gateway protection
 - Amazon Bedrock AI analysis
 - Threat correlation and SOAR automation
 - EventBridge Pipe fault isolation
